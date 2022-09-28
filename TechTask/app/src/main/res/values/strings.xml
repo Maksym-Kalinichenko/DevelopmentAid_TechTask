@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TechTask</string>
+    <string name="profile_link">Profile Link:</string>
+    <string name="tags">Tags:</string>
+    <string name="question_count">Question count:</string>
+    <string name="answer_count">Answer count:</string>
+    <string name="location">Location:</string>
+    <string name="name">Name:</string>
+    <string name="noTag">No one has selected the tags \"java\", \".net\", \"docker\", \"C#\"...</string>
+    <string name="yesTag">People who chose tags with \"java\", \".net\", \"docker\", \"C#\"...</string>
+    <string name="noAnswered">No one has answered 1 question or more...</string>
+    <string name="yesAnswered">People who answered 1 question or more...</string>
+    <string name="noReputation">There is no one with a reputation of 233 or higher...</string>
+    <string name="yesReputation">People who have a reputation of 233 or higher...</string>
+    <string name="noLocation">Nobody in Romania or Moldova...</string>
+    <string name="yesLocation">People who are Romanian or Moldovan...</string>
+</resources>

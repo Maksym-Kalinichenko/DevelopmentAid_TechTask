@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/findAll"
+        android:title="All" />
+    <item
+        android:id="@+id/findLocation"
+        android:title="Location" />
+    <item
+        android:id="@+id/findReputation"
+        android:title="Reputation" />
+    <item
+        android:id="@+id/findAnswered"
+        android:title="Answered" />
+    <item
+        android:id="@+id/findTags"
+        android:title="Tags" />
+
+</menu>
